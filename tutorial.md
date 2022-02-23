@@ -1,2 +1,0 @@
-Ini adalah tutorial
-# Tutor
